@@ -2,7 +2,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>spring-mvc-showcase</title>
+	<title>spring-mvc-project</title>
 	<link href="<c:url value="/resources/form.css" />" rel="stylesheet"  type="text/css" />		
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.core.css" />" rel="stylesheet" type="text/css"/>
 	<link href="<c:url value="/resources/jqueryui/1.8/themes/base/jquery.ui.theme.css" />" rel="stylesheet" type="text/css"/>
@@ -16,7 +16,9 @@
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
-<h1><a href="<c:url value="/" />">spring-mvc-showcase</a></h1>
+	<h1><b><a href="<c:url value="/" />">Welcome Siva....!</a></b></h1>	
+<h1><a href="<c:url value="/" />">Spring MVC Example</a></h1>
+<h1><a href="<c:url value="/" />">Welcome Siva....!</a></h1>	
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
