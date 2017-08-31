@@ -16,7 +16,7 @@
 	<meta name="_csrf_header" content="${_csrf.headerName}"/>
 </head>
 <body>
-	<h1><b><a href="<c:url value="/" />">Welcome Siva....!</a></b></h1>	
+	<h1><b><a href="<c:url value="/" />">Welcome Siva..</a></b></h1>	
 <h1><a href="<c:url value="/" />">Spring MVC Example</a></h1>
 <h1><a href="<c:url value="/" />">Welcome Siva....!</a></h1>	
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
