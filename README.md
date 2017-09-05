@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-Spring MVC Showcas....................e
-=======
-Spring MVC :
->>>>>>> 0b49d0f092eccce7e6e933023159d9059c9ba600
+
+<<<<<<< HEADSpring MVC Showcas....................e
+
 -------------------
 Demonstrates the capabilities of the Spring MVC web framework through small, simple examples.
 After reviewing this showcase, you should have a good understanding of what Spring MVC can do and get a feel for how easy it is to use.
