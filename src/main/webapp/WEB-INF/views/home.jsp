@@ -17,7 +17,7 @@
 </head>
 <body>
 	<h1><b>Welcome Siva..</b></h1>	
-<h1><a href="<c:url value="/" />">This is Spring mcv Automation Example</a></h1>
+<h1><a href="<c:url value="/" />">..............................................................</a></h1>
 	
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
